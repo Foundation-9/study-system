@@ -1,0 +1,86 @@
+
+# Demis Hassabis-Inspired Daily Routine & Study System
+
+## Daily Routine (Adapted for Real-Life Application)
+
+### The Night Before
+- **Define One Big Question to Solve**
+  - _Example_: "Why is scaling applied in the Transformer’s attention mechanism?"
+
+---
+
+### Morning Routine: Deep Work Block (9:00–12:00)
+- **No distractions:** Phone in airplane mode, silent workspace
+- **Structure:**
+  - 2 x 90-minute deep work sessions
+  - Use Pomodoro: 25min focus / 5min break × 3
+- **Tools:**
+  - A4 notebook for sketches/ideas
+  - Obsidian / Notion / Roam Research for digital notes
+- **Track friction points:** Brief notes on what felt difficult or unclear
+
+---
+
+### Lunch & Reset (12:00–13:00)
+- Light walk or workout
+- Short phone check allowed (NO social media)
+
+---
+
+### Afternoon: Collaborative Thinking (13:00–17:00)
+- Meetings, study groups, implementation work
+- **Rule:** No outsourcing of thinking
+  - Use tools (e.g. ChatGPT) only after forming your own hypothesis
+- Explain concepts to others (or rubber duck)
+
+---
+
+### Evening Routine (20:00–22:00)
+- Read broadly: papers, neuroscience, AI, philosophy, sci-fi
+- Try to **connect knowledge across domains**
+  - _Example_: “How would this neuroscience concept apply in RL?”
+
+---
+
+### Daily Reflection
+- What was the most interesting idea I encountered?
+- Where did I get stuck, and why?
+- What do I want to explore tomorrow?
+
+---
+
+## Hassabis-Inspired Study Note Template
+
+### Note Title: [Your Key Question]
+> _Example_: "Why does AlphaZero use both MCTS and a Policy Network?"
+
+#### 1. Problem Summary (1 Sentence)
+- One-sentence articulation of what you're trying to understand.
+
+#### 2. Background Knowledge
+- 3-sentence summary of what you already know.
+- Key terms and relevant theories.
+
+#### 3. Explorations
+- Your interpretations and hypotheses
+- Snippets from papers or lectures
+- Sketches, diagrams, or mental models
+
+#### 4. Sticking Points & Why
+- Precisely what feels confusing or incomplete
+- _Example_: “The math makes sense, but I lack intuition.”
+
+#### 5. ELI5 Summary
+- Explain it as if to a 10-year-old sibling.
+
+---
+
+## Recommended Tools
+- **Obsidian** — for graph-style connected notes
+- **Zotero + PDF reader** — for organizing academic papers
+- **Forest / Cold Turkey** — focus/time-blocking apps
+- **Whiteboard or Tablet** — for sketching ideas freely
+
+---
+
+_“Every day is a simulation. Make your brain the best AI lab.”_
